@@ -1,0 +1,6 @@
+Hi, thank you for testing my code. 
+
+I hope you like my implementation. If you would like to hear how this synthesized voice sounds in a video, have a look at my video on Youtube! A link to this video is in the readme-file.
+
+Feel free to use this code! 
+
