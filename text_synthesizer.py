@@ -75,7 +75,7 @@ class TextSynthesizer():
 		for text_data in split_text:
 			
 			# Set filename for audio file
-			filename_audio_part = filename_audio + 'part_' + str(part_id)
+			filename_audio_part = filename_audio + '_part_' + str(part_id)
 
 			# Synthesis text
 			self.synthesize_string(text_data, filename_audio_part)
