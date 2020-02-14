@@ -7,6 +7,7 @@
 In this Python project the [Google Cloud Text-to-Speech API](https://cloud.google.com/text-to-speech) is used to synthesize text from a text file. The Google Cloud Text-to-Speech API uses DeepMind's deep neural network [WaveNet](https://deepmind.com/blog/article/wavenet-generative-model-raw-audio) to synthesize text.
 
 Link to a video with a voice-over generated from a textfile and the resources of this project: https://www.youtube.com/watch?v=HLywAP-tRTU&t=1s
+
 For more examples, see folder 'audio_files' (related text file in folder 'text_files').
 
 ---
